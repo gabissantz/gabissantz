@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcTBvd2E2dGJ5cmFub29ndHRiaTdrbnd4Z2QxbWZvZjFzNDh3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZboA233p8Qy4/giphy.gif" />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/b93a4248-8845-484e-9556-85e110601bb9" />
 
 ###
 
