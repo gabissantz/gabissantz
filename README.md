@@ -12,6 +12,8 @@
   <a href="https://pinterest.com/gabissantt" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-f38ba8?style=for-the-badge&logo=pinterest&logoColor=11111b" height="38" />
   </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=campelomariagabriela@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-f2cdcd?style=for-the-badge&logo=gmail&logoColor=11111b" height="38" />
 </p>
 
 *𝒻𝒶𝓋ℴ𝓇𝒾𝓉ℯ 𝓈ℴ𝓃ℊ*
